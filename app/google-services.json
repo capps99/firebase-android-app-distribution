@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523791725900",
+    "project_id": "poc-android-tests",
+    "storage_bucket": "poc-android-tests.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523791725900:android:be1f57ad76f45c5acd4be9",
+        "android_client_info": {
+          "package_name": "com.capitanapps.poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523791725900-brg4drn2p59mf9ossv07cqdb7q5qjivt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfY9m0uIo1le4q_upAOaJJemiFn85ju10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523791725900-brg4drn2p59mf9ossv07cqdb7q5qjivt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
